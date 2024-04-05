@@ -11,7 +11,7 @@ __pycache__/
 .env
 
 # Data
-data/
+ShanghaiTech_A/
 
 # Miscellaneous
 .DS_Store
